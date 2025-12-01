@@ -1,4 +1,4 @@
-Student Management System (Python)
+Student Management System
 
 A simple and interactive Student Management System built using Python.
 This project allows users to add, view, search, update, and delete student records through a text-based menu.
@@ -32,13 +32,13 @@ Delete any student record using their ID.
 ✔ Save & Exit
 Ends the program (in-memory storage only).
 
-🧠 Project Structure
+Project Structure
 Student Management System
 │
 ├── student_management.py   # Main program file
 └── README.md               # Project documentation
 
-📂 Code Overview
+Code Overview
 The project uses:
 Lists to store student records
 
@@ -73,7 +73,7 @@ Python 3.x
 
 No external libraries required
 
-▶️ How to Run
+ How to Run
 
 Clone this repository:
 
@@ -87,7 +87,7 @@ Run the program:
 
 python student_management.py
 
-📌 Future Enhancements (Optional Ideas)
+ Future Enhancements (Optional Ideas)
 
 Add file storage (CSV/JSON)
 
@@ -99,11 +99,11 @@ Convert project into OOP structure
 
 Create web version using Flask/Django
 
-🤝 Contributing
+ Contributing
 
 Pull requests are welcome!
 If you have ideas to improve this project, feel free to contribute.
 
-📄 License
+ License
 
 This project is open-source and available under the MIT License.
